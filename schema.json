@@ -1,0 +1,20 @@
+{
+    "title": "Employee",
+   "description": "Details about Employee",
+   "type": "object",
+   "properties": {
+   "employeename": {
+        "type": "string"
+   },
+   "employeeid": {
+        "type": "integer"
+    },
+   "department": {
+        "type": "string"
+   },
+   "salary": {
+        "type": "number"
+   }
+   }
+}
+   
